@@ -24,6 +24,7 @@ vim-fugitive
 
 
 #### 命令详解
+-------------
 
 > :Gstatus
 
